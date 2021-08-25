@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OlaMundo</string>
+    <string-array name="opcoes">
+        <item>opcao 1</item>
+        <item>opcao 2</item>
+        <item>opcao 3</item>
+    </string-array>
+</resources>
